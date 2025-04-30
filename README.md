@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Maksim</h1>
 <h3 align="center">I'm a C++ enthusiast from Russia who loves writing clean and efficient code.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kr0ninberg" alt="kr0ninberg" /></a> </p>
-
 - 🌱 I’m currently learning **PostgreSQL internals, POSIX API**
 
 - 📫 How to reach me **shahov.maksim.i@gmail.com**
