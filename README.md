@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **PostgreSQL internals, POSIX API**
 
-- 📫 How to reach me [email](mailto:shahov.maksim.i@gmail.com)
+- 📫 How to reach me: [email](mailto:shahov.maksim.i@gmail.com)
 
-- 📄 Know about my experiences [CV](https://hh.ru/resume/0fbb34ecff0d5f47e70039ed1f713144616639)
+- 📄 Know about my experiences: [CV](https://hh.ru/resume/0fbb34ecff0d5f47e70039ed1f713144616639)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,5 +26,5 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> </p>
  
-| <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kr0ninberg&show_icons=true&locale=en&layout=compact" alt="kr0ninberg" /></p> | <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kr0ninberg&show_icons=true&locale=en" alt="kr0ninberg" /></p> |
+| <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kr0ninberg&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="kr0ninberg's github stats" /></p> | <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kr0ninberg&layout=compact&theme=buefy&hide_border=true" /></p> |
 | ------------- | ------------- |
