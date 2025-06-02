@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maksim</h1>
-<h3 align="center">I'm a C++ enthusiast from Russia who loves writing clean and efficient code.</h3>
+<h3 align="center">I'm a Go/C++ enthusiast from Russia who loves writing clean and efficient code.</h3>
 
-- 🌱 I’m currently learning **PostgreSQL internals, POSIX API**
+- 🌱 I’m currently learning **PostgreSQL and CI/CD basics**
 
 - 📫 How to reach me: [email](mailto:shahov.maksim.i@gmail.com)
 
